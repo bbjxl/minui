@@ -1,6 +1,6 @@
 {
   "name": "@qianzhaoy/wxc-cc",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "MinUI 小程序组件 - 水平垂直居中",
   "main": "dist/index.js",
   "scripts": {},

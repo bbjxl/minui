@@ -1,6 +1,6 @@
 {
   "name": "@qianzhaoy/wxc-toast",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "MinUI 小程序组件 - 提示框",
   "main": "dist/index.js",
   "repository": {
