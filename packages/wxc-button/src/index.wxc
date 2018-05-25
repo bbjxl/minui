@@ -16,7 +16,7 @@
                 send-message-path="{{sendMessagePath}}"
                 send-message-img="{{sendMessageImg}}"
                 show-message-card="{{showMessageCard}}"
-                bindclick="btnClick"
+                bindtap="btnClick"
                 bindgetuserinfo="getUserInfo"
                 bindcontact="onContact"
                 bindgetphonenumber="getPhoneNumber"
