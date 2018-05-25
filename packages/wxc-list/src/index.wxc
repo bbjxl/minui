@@ -112,7 +112,7 @@ export default {
       flex: 1;
       @m sub {
         margin-top: 14rpx;
-        font-size: 28rpx;
+        font-size: 24rpx;
         line-height: 40rpx;
         color: #999;
       }
