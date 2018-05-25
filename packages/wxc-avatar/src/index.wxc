@@ -17,8 +17,8 @@
 export default {
   config: {
     usingComponents: {
-      'wxc-badge': 'wxc-badge',
-      'wxc-cc': 'wxc-cc'
+      'wxc-badge': '@qianzhaoy/wxc-badge',
+      'wxc-cc': '@qianzhaoy/wxc-cc'
     }
   },
   behaviors: [],
