@@ -28,7 +28,7 @@ $ min install @minui/wxc-dialog
 ||地址|
 |--|---|
 ||dialog 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#dialog](https://meili.github.io/min/docs/minui/index.html#dialog)<br>|
-||dialog 组件源码 <br> [https://github.com/meili/minui/tree/master/packages/wxc-dialog](https://github.com/meili/minui/tree/master/packages/wxc-dialog)<br>|
+||dialog 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-dialog](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-dialog)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

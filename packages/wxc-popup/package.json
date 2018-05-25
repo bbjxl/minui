@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/meili/minui/tree/master/packages/wxc-popup"
+    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-popup"
   },
   "author": "Min Team",
   "license": "MIT",

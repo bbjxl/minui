@@ -26,7 +26,7 @@ $ min install @minui/wxc-countdown
 ||地址|
 |--|---|
 ||countdown 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#countdown](https://meili.github.io/min/docs/minui/index.html#countdown)<br>|
-||countdown 组件源码 <br> [https://github.com/meili/minui/tree/master/packages/wxc-countdown](https://github.com/meili/minui/tree/master/packages/wxc-countdown)<br>|
+||countdown 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-countdown](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-countdown)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

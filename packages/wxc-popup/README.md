@@ -31,7 +31,7 @@ $ min install @minui/wxc-popup
 ||地址|
 |--|---|
 ||popup 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#popup](https://meili.github.io/min/docs/minui/index.html#popup)<br>|
-||popup 组件源码 <br> [https://github.com/meili/minui/tree/master/packages/wxc-popup](https://github.com/meili/minui/tree/master/packages/wxc-popup)<br>|
+||popup 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-popup](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-popup)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

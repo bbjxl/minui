@@ -33,7 +33,7 @@ $ min install @minui/wxc-toast
 ||地址|
 |--|---|
 ||toast 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#toast](https://meili.github.io/min/docs/minui/index.html#toast)<br>|
-||toast 组件源码 <br> [https://github.com/meili/minui/tree/master/packages/wxc-toast](https://github.com/meili/minui/tree/master/packages/wxc-toast)<br>|
+||toast 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-toast](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-toast)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

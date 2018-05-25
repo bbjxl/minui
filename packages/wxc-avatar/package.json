@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/meili/minui/tree/master/packages/wxc-avatar"
+    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-avatar"
   },
   "publishConfig": {
     "access": "public"

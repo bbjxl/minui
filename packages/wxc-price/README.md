@@ -25,7 +25,7 @@ $ min install @minui/wxc-price
 ||地址|
 |--|---|
 ||price 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#price](https://meili.github.io/min/docs/minui/index.html#price)<br>|
-||price 组件源码 <br> [https://github.com/meili/minui/tree/master/packages/wxc-price](https://github.com/meili/minui/tree/master/packages/wxc-price)<br>|
+||price 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-price](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-price)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

@@ -25,7 +25,7 @@ $ min install @minui/wxc-abnor
 ||地址|
 |--|---|
 ||abnor 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#abnor](https://meili.github.io/min/docs/minui/index.html#abnor)<br>|
-||abnor 组件源码 <br> [https://github.com/meili/minui/tree/master/packages/wxc-abnor](https://github.com/meili/minui/tree/master/packages/wxc-abnor)<br>|
+||abnor 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-abnor](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-abnor)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

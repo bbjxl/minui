@@ -23,7 +23,7 @@ $ min install @minui/wxc-avatar
 ||地址|
 |--|---|
 ||avatar 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#avatar](https://meili.github.io/min/docs/minui/index.html#avatar)<br>|
-||avatar 组件源码 <br> [https://github.com/meili/minui/tree/master/packages/wxc-avatar](https://github.com/meili/minui/tree/master/packages/wxc-avatar)<br>|
+||avatar 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-avatar](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-avatar)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

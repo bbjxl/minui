@@ -45,7 +45,7 @@ $ min install @minui/wxc-tab
 ||地址|
 |--|---|
 ||tab 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#tab](https://meili.github.io/min/docs/minui/index.html#tab)<br>|
-||tab 组件源码 <br> [https://github.com/meili/minui/tree/master/packages/wxc-tab](https://github.com/meili/minui/tree/master/packages/wxc-tab)<br>|
+||tab 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-tab](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-tab)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview
