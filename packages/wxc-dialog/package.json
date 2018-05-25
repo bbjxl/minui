@@ -1,6 +1,6 @@
 {
   "name": "@qianzhaoy/wxc-dialog",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "MinUI 小程序组件 - 对话框",
   "main": "dist/index.js",
   "repository": {
@@ -10,7 +10,7 @@
   "author": "Min Team",
   "license": "MIT",
   "dependencies": {
-    "@qianzhaoy/wxc-popup": "^1.0.9"
+    "@qianzhaoy/wxc-popup": "1.0.11"
   },
   "publishConfig": {
     "access": "public"

@@ -1,6 +1,6 @@
 {
   "name": "@qianzhaoy/wxc-rate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "评价 - 小程序组件",
   "main": "dist/index.js",
   "scripts": {},

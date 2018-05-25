@@ -1,6 +1,6 @@
 {
   "name": "@qianzhaoy/wxc-badge",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "MinUI 小程序组件 - 徽章",
   "main": "dist/index.js",
   "repository": {
