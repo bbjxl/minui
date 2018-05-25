@@ -1,5 +1,5 @@
 {
-  "name": "@minui/wxc-switch",
+  "name": "@qianzhaoy/wxc-switch",
   "version": "1.0.4",
   "description": "MinUI 小程序组件 - 开关选择器",
   "main": "dist/index.js",

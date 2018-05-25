@@ -1,5 +1,5 @@
 {
-  "name": "@minui/wxc-cc",
+  "name": "@qianzhaoy/wxc-cc",
   "version": "1.0.3",
   "description": "MinUI 小程序组件 - 水平垂直居中",
   "main": "dist/index.js",

@@ -1,5 +1,5 @@
 {
-  "name": "@minui/wxc-dialog",
+  "name": "@qianzhaoy/wxc-dialog",
   "version": "1.0.9",
   "description": "MinUI 小程序组件 - 对话框",
   "main": "dist/index.js",

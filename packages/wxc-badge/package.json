@@ -1,5 +1,5 @@
 {
-  "name": "@minui/wxc-badge",
+  "name": "@qianzhaoy/wxc-badge",
   "version": "1.0.5",
   "description": "MinUI 小程序组件 - 徽章",
   "main": "dist/index.js",

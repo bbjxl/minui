@@ -1,5 +1,5 @@
 {
-  "name": "@minui/wxc-mask",
+  "name": "@qianzhaoy/wxc-mask",
   "version": "1.0.8",
   "description": "MinUI 小程序组件 - 遮罩层",
   "main": "dist/index.js",

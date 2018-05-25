@@ -1,5 +1,5 @@
 {
-  "name": "@minui/wxc-label",
+  "name": "@qianzhaoy/wxc-label",
   "version": "1.0.5",
   "description": "MinUI 小程序组件 - 标签",
   "main": "dist/index.js",

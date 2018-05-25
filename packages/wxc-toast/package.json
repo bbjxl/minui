@@ -1,5 +1,5 @@
 {
-  "name": "@minui/wxc-toast",
+  "name": "@qianzhaoy/wxc-toast",
   "version": "1.0.9",
   "description": "MinUI 小程序组件 - 提示框",
   "main": "dist/index.js",

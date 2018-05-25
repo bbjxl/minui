@@ -1,5 +1,5 @@
 {
-  "name": "@minui/wxc-elip",
+  "name": "@qianzhaoy/wxc-elip",
   "version": "1.0.5",
   "description": "MinUI 小程序组件 - 文本截断",
   "main": "dist/index.js",

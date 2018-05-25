@@ -1,5 +1,5 @@
 {
-  "name": "@minui/wxc-avatar",
+  "name": "@qianzhaoy/wxc-avatar",
   "version": "1.0.4",
   "description": "MinUI 小程序组件 - 头像",
   "main": "dist/index.js",

@@ -1,5 +1,5 @@
 {
-  "name": "@minui/wxc-progress",
+  "name": "@qianzhaoy/wxc-progress",
   "version": "1.0.5",
   "description": "MinUI 小程序组件 - 进度条",
   "main": "dist/index.js",

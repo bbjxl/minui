@@ -1,5 +1,5 @@
 {
-  "name": "@minui/wxc-search",
+  "name": "@qianzhaoy/wxc-search",
   "version": "1.0.1",
   "description": "搜索栏 - 小程序组件",
   "main": "dist/index.js",
