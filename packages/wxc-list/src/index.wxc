@@ -24,7 +24,7 @@
 export default {
   config: {
     usingComponents: {
-      'wxc-icon': '@qianzhaoy/wxc-icon'
+      'wxc-icon': 'wxc-icon'
     }
   },
   behaviors: [ ],
@@ -94,7 +94,7 @@ export default {
       margin-left: 30rpx;
       box-sizing: border-box;
       border-bottom: 1px solid #ececec;
-      font-size: 32rpx;
+      font-size: 28rpx;
       color: #333;
     }
     @e none {

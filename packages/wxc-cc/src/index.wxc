@@ -8,7 +8,7 @@
 export default {
   config: {
     usingComponents: {
-      'wxc-flex': '@qianzhaoy/wxc-flex'
+      'wxc-flex': 'wxc-flex'
     }
   },
   behaviors: [],
