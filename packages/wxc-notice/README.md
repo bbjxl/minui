@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-notice
+$ min install @qianzhaoy/wxc-notice
 ```
 
 

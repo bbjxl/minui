@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-dialog
+$ min install @qianzhaoy/wxc-dialog
 ```
 
 ## API

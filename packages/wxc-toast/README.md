@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-toast
+$ min install @qianzhaoy/wxc-toast
 ```
 
 ## API

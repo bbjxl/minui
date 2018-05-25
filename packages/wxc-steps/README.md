@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-steps
+$ min install @qianzhaoy/wxc-steps
 ```
 
 ## API

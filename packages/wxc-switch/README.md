@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-switch
+$ min install @qianzhaoy/wxc-switch
 ```
 
 ## API

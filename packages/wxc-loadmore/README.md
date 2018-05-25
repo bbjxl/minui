@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-loadmore
+$ min install @qianzhaoy/wxc-loadmore
 ```
 
 ## API

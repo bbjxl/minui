@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-label
+$ min install @qianzhaoy/wxc-label
 ```
 
 ## API

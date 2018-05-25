@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-elip
+$ min install @qianzhaoy/wxc-elip
 ```
 
 ## API

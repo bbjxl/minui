@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-panel
+$ min install @qianzhaoy/wxc-panel
 ```
 
 

@@ -24,7 +24,7 @@
 export default {
   config: {
     usingComponents: {
-      'wxc-icon': '@minui/wxc-icon'
+      'wxc-icon': '@qianzhaoy/wxc-icon'
     }
   },
   behaviors: [ ],

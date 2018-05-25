@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-button
+$ min install @qianzhaoy/wxc-button
 ```
 
 

@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-cc
+$ min install @qianzhaoy/wxc-cc
 ```
 
 ## API

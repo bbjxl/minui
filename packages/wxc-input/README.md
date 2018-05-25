@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-input
+$ min install @qianzhaoy/wxc-input
 ```
 
 

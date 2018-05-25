@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-popup
+$ min install @qianzhaoy/wxc-popup
 ```
 
 ## API

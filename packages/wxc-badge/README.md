@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-badge
+$ min install @qianzhaoy/wxc-badge
 ```
 
 ## API

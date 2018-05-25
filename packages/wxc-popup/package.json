@@ -10,7 +10,7 @@
   "author": "Min Team",
   "license": "MIT",
   "dependencies": {
-    "@minui/wxc-mask": "1.0.8"
+    "@qianzhaoy/wxc-mask": "1.0.8"
   },
   "publishConfig": {
     "access": "public"

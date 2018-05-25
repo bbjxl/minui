@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-progress
+$ min install @qianzhaoy/wxc-progress
 ```
 
 ## API

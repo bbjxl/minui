@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-counter
+$ min install @qianzhaoy/wxc-counter
 ```
 
 

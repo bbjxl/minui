@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-loading
+$ min install @qianzhaoy/wxc-loading
 ```
 
 ## API

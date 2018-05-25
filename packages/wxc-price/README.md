@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-price
+$ min install @qianzhaoy/wxc-price
 ```
 
 ## API

@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-search
+$ min install @qianzhaoy/wxc-search
 ```
 
 

@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-avatar
+$ min install @qianzhaoy/wxc-avatar
 ```
 
 

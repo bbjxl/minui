@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-tab
+$ min install @qianzhaoy/wxc-tab
 ```
 
 ## API

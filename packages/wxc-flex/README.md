@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-flex
+$ min install @qianzhaoy/wxc-flex
 ```
 
 ## API

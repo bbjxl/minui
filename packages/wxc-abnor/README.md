@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-abnor
+$ min install @qianzhaoy/wxc-abnor
 ```
 
 ## API
