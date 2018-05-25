@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "@qianzhaoy/wxc-badge": "1.0.7",
-    "@qianzhaoy/wxc-cc": "1.0.7"
+    "@qianzhaoy/wxc-cc": "1.0.8"
   },
   "minConfig": {
     "component": true

@@ -38,7 +38,7 @@
 export default {
   config: {
     usingComponents: {
-      'wxc-icon': 'wxc-icon'
+      'wxc-icon': '@qianzhaoy/wxc-icon'
     }
   },
   behaviors: [],
