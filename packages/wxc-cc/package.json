@@ -14,7 +14,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@qianzhaoy/wxc-flex": "1.0.5"
+    "@qianzhaoy/wxc-flex": "1.0.7"
   },
   "minConfig": {
     "component": true

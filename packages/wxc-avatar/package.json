@@ -14,8 +14,8 @@
   "author": "Min Team",
   "license": "MIT",
   "dependencies": {
-    "@qianzhaoy/wxc-badge": "1.0.5",
-    "@qianzhaoy/wxc-cc": "1.0.3"
+    "@qianzhaoy/wxc-badge": "1.0.7",
+    "@qianzhaoy/wxc-cc": "1.0.6"
   },
   "minConfig": {
     "component": true
