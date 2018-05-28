@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @minui/wxc-card
+$ min install @qianzhaoy/wxc-card
 ```
 
 
