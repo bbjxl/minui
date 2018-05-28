@@ -13,7 +13,7 @@
     <slot wx:if="{{ useDetailSlot }}" name="detail-slot"></slot>
     <block wx:else>
       <view class="zan-card__detail-row">
-        <view class="zan-card__right-col">¥ {{ price }}</view>
+        <view class="zan-card__right-col zan-text-12">¥ {{ price }}</view>
         <view class="zan-card__left-col zan-ellipsis--l2">
           {{ title }}
         </view>
@@ -21,13 +21,15 @@
 
       <view class="zan-card__detail-row zan-c-gray-darker">
         <view wx:if="{{ num }}" class="zan-card__right-col">x {{ num }}</view>
-        <view wx:if="{{ desc }}" class="zan-card__left-col">
+        <view wx:if="{{ desc }}" class="zan-card__left-col zan-text-12">
           {{ desc }}
         </view>
       </view>
 
       <view wx:if="{{ status }}" class="zan-card__detail-row">
-        <view class="zan-card__left-col zan-c-red">{{ status }}</view>
+        <slot name="footer">
+          <view class="zan-card__left-col zan-c-red">{{ status }}</view>
+        </slot>
       </view>
     </block>
   </view>
@@ -71,15 +73,19 @@ export default {
 .zan-card {
   display: flex;
   margin-left: 0px;
-  padding: 5px 15px;
+  padding: 10rpx 30rpx;
   overflow: hidden;
   position: relative;
   font-size: 28rpx;
 }
 
+.zan-text-12 {
+  font-size: 24rpx;
+}
+
 .zan-ellipsis--l2 {
-  max-height: 40px;
-  line-height: 20px;
+  max-height: 80rpx;
+  line-height: 40rpx;
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
@@ -88,8 +94,8 @@ export default {
 }
 
 .zan-card__thumb {
-  width: 90px;
-  height: 90px;
+  width: 180rpx;
+  height: 180rpx;
   position: relative;
   margin-left: auto;
   margin-right: auto;
@@ -111,15 +117,15 @@ export default {
 
 .zan-card__detail {
   flex: 1;
-  margin-left: 10px;
+  margin-left: 20rpx;
   position: relative;
 }
 
 .zan-card__detail-row {
   overflow: hidden;
-  line-height: 20px;
-  min-height: 20px;
-  margin-bottom: 3px;
+  line-height: 40rpx;
+  min-height: 40rpx;
+  margin-bottom: 6rpx;
 }
 
 .zan-card__right-col {
@@ -127,7 +133,7 @@ export default {
 }
 
 .zan-card__left-col {
-  margin-right: 80px;
+  margin-right: 160rpx;
 }
 
 </style>
