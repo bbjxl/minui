@@ -20,7 +20,7 @@
       </view>
 
       <view class="zan-card__detail-row zan-c-gray-darker">
-        <view wx:if="{{ num }}" class="zan-card__right-col">x {{ num }}</view>
+        <view wx:if="{{ num }}" class="zan-card__right-col zan-text-12">x {{ num }}</view>
         <view wx:if="{{ desc }}" class="zan-card__left-col zan-text-12">
           {{ desc }}
         </view>
