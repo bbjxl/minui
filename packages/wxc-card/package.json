@@ -1,0 +1,19 @@
+{
+  "name": "@minui/wxc-card",
+  "version": "1.0.0",
+  "description": "商品卡片 - 小程序组件",
+  "main": "dist/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-card"
+  },
+  "author": "qianzhaoy",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "minConfig": {
+    "component": true
+  }
+}
