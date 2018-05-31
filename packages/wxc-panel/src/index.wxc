@@ -1,8 +1,16 @@
 <template>
-  <view class="panel__title" wx:if="{{title}}">{{title}}</view>
+  
+  <view class="panel__title" wx:if="{{title}}">
+    <view>{{title}}</view>
+    <view class="panel__status">{{status}}</view>
+  </view>
+  <view wx:else class="panel__title">
+    <slot name="header"></slot>
+  </view>
   <view class="panel {{margin? '': 'panel__margin'}} {{border? '' : 'panel__border'}}" bindtap="onClick">
     <slot></slot>
   </view>
+  <slot name="footer"></slot>
 </template>
 
 <script>
@@ -10,9 +18,16 @@ export default {
   config: {
     usingComponents: { }
   },
+  options: {
+    multipleSlots: true
+  },
   behaviors: [],
   properties: {
     title: {
+      type: String,
+      value: ''
+    },
+    status: {
       type: String,
       value: ''
     },
@@ -62,10 +77,14 @@ export default {
   }
   @b panel {
     @e title {
+      display: flex;
+      justify-content: space-between;
       font-size: 28rpx;
       line-height: 1;
-      color: #999;
       padding: 40rpx 30rpx 0 30rpx;
+    }
+    @e status {
+      color: #f44;
     }
     @e margin {
       margin-top: 0;
