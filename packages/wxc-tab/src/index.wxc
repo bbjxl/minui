@@ -75,7 +75,13 @@ export default {
     },
     defaultIndex: {
       type: Number,
-      value: 0
+      value: 0,
+      observer: function(val) {
+        if (!this.data.isReadied) return;
+        
+        let activeKey = this.minAndMax(val);
+        this.onSwitch(activeKey, 'all');
+      }
     },
     componentId: {
       type: String,
@@ -106,7 +112,8 @@ export default {
     tabs: [],
     width: 0,
     activeKey: 0,
-    move: 0
+    move: 0,
+    isReadied: false
   },
   attached() {
     this.componentId = this.data.componentId;
@@ -128,7 +135,8 @@ export default {
       tabs: this.tabs,
       width,
       type: this.type,
-      move: width * activeKey
+      move: width * activeKey,
+      isReadied: true
     });
   },
   detached() {
@@ -157,6 +165,10 @@ export default {
       Event.on(`from-panel-switch-${this.componentId}`, key => {
         this.onSwitch(key, 'to-label');
       });
+    },
+
+    obSwitch(val) {
+      this.onSwitch(val)
     },
 
     onSwitch(activeKey, toNotice) {
