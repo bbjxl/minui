@@ -1,5 +1,6 @@
 <template>
   <wxc-steps steps="{{steps}}" current="{{current}}"></wxc-steps>
+  <wxc-steps steps="{{steps}}" current="{{current}}" theme="green"></wxc-steps>
 </template>
 
 <script>
