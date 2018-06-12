@@ -13,7 +13,7 @@
     <slot wx:if="{{ useDetailSlot }}" name="detail-slot"></slot>
     <block wx:else>
       <view class="zan-card__detail-row">
-        <view wx:if="price" class="zan-card__right-col zan-text-12">¥ {{ price }}</view>
+        <view wx:if="{{ price }}" class="zan-card__right-col zan-text-12">¥ {{ price }}</view>
         <view class="zan-card__left-col zan-ellipsis--l2">
           {{ title }}
         </view>
