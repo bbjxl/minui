@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @qianzhaoy/wxc-badge
+$ min install @bbjxl/wxc-badge
 ```
 
 ## API
@@ -22,7 +22,7 @@ $ min install @qianzhaoy/wxc-badge
 ||地址|
 |--|---|
 ||badge 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#badge](https://meili.github.io/min/docs/minui/index.html#badge)<br>|
-||badge 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-badge](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-badge)<br>|
+||badge 组件源码 <br> [https://github.com/bbjxl/minui/tree/master/packages/wxc-badge](https://github.com/bbjxl/minui/tree/master/packages/wxc-badge)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

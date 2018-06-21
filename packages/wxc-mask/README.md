@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @qianzhaoy/wxc-mask
+$ min install @bbjxl/wxc-mask
 ```
 
 ## API
@@ -32,7 +32,7 @@ $ min install @qianzhaoy/wxc-mask
 ||地址|
 |--|---|
 ||mask 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#mask](https://meili.github.io/min/docs/minui/index.html#mask)<br>|
-||mask 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-mask](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-mask)<br>|
+||mask 组件源码 <br> [https://github.com/bbjxl/minui/tree/master/packages/wxc-mask](https://github.com/bbjxl/minui/tree/master/packages/wxc-mask)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

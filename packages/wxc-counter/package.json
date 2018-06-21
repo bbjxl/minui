@@ -1,11 +1,11 @@
 {
-  "name": "@qianzhaoy/wxc-counter",
+  "name": "@bbjxl/wxc-counter",
   "version": "1.0.11",
   "description": "MinUI 小程序组件 - 数字框",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-counter"
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-counter"
   },
   "author": "Min Team",
   "license": "MIT",

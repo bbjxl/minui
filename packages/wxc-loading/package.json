@@ -1,11 +1,11 @@
 {
-  "name": "@qianzhaoy/wxc-loading",
+  "name": "@bbjxl/wxc-loading",
   "version": "1.0.10",
   "description": "MinUI 小程序组件 - 加载提示",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-loading"
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-loading"
   },
   "author": "Min Team",
   "license": "MIT",

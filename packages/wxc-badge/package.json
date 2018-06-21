@@ -1,11 +1,11 @@
 {
-  "name": "@qianzhaoy/wxc-badge",
+  "name": "@bbjxl/wxc-badge",
   "version": "1.0.7",
   "description": "MinUI 小程序组件 - 徽章",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-badge"
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-badge"
   },
   "author": "Min Team",
   "publishConfig": {

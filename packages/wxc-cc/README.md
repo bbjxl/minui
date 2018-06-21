@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @qianzhaoy/wxc-cc
+$ min install @bbjxl/wxc-cc
 ```
 
 ## API
@@ -18,7 +18,7 @@ none
 ||地址|
 |--|---|
 ||cc 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#cc](https://meili.github.io/min/docs/minui/index.html#cc)<br>|
-||cc 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-cc](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-cc)<br>|
+||cc 组件源码 <br> [https://github.com/bbjxl/minui/tree/master/packages/wxc-cc](https://github.com/bbjxl/minui/tree/master/packages/wxc-cc)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

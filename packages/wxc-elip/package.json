@@ -1,11 +1,11 @@
 {
-  "name": "@qianzhaoy/wxc-elip",
+  "name": "@bbjxl/wxc-elip",
   "version": "1.0.7",
   "description": "MinUI 小程序组件 - 文本截断",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-elip"
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-elip"
   },
   "author": "Min Team",
   "license": "MIT",

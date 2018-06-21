@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @qianzhaoy/wxc-counter
+$ min install @bbjxl/wxc-counter
 ```
 
 
@@ -25,7 +25,7 @@ $ min install @qianzhaoy/wxc-counter
 ||地址|
 |--|---|
 ||counter 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#counter](https://meili.github.io/min/docs/minui/index.html#counter)<br>|
-||counter 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-counter](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-counter)<br>|
+||counter 组件源码 <br> [https://github.com/bbjxl/minui/tree/master/packages/wxc-counter](https://github.com/bbjxl/minui/tree/master/packages/wxc-counter)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

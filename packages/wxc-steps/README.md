@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @qianzhaoy/wxc-steps
+$ min install @bbjxl/wxc-steps
 ```
 
 ## API
@@ -29,7 +29,7 @@ $ min install @qianzhaoy/wxc-steps
 ||地址|
 |--|---|
 ||steps 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#steps](https://meili.github.io/min/docs/minui/index.html#steps)<br>|
-||steps 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-steps](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-steps)<br>|
+||steps 组件源码 <br> [https://github.com/bbjxl/minui/tree/master/packages/wxc-steps](https://github.com/bbjxl/minui/tree/master/packages/wxc-steps)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

@@ -1,16 +1,16 @@
 {
-  "name": "@qianzhaoy/wxc-dialog",
+  "name": "@bbjxl/wxc-dialog",
   "version": "1.0.14",
   "description": "MinUI 小程序组件 - 对话框",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-dialog"
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-dialog"
   },
   "author": "Min Team",
   "license": "MIT",
   "dependencies": {
-    "@qianzhaoy/wxc-popup": "1.0.14"
+    "@bbjxl/wxc-popup": "1.0.14"
   },
   "publishConfig": {
     "access": "public"

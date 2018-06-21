@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @qianzhaoy/wxc-rate
+$ min install @bbjxl/wxc-rate
 ```
 
 

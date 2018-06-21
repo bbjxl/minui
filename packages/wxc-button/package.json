@@ -1,12 +1,12 @@
 {
-  "name": "@qianzhaoy/wxc-button",
+  "name": "@bbjxl/wxc-button",
   "version": "1.0.4",
   "description": "MinUI 小程序组件 - 按钮组件",
   "main": "dist/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-button"
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-button"
   },
   "author": "",
   "license": "MIT",

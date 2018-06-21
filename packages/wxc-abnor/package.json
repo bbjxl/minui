@@ -1,11 +1,11 @@
 {
-  "name": "@qianzhaoy/wxc-abnor",
+  "name": "@bbjxl/wxc-abnor",
   "version": "1.0.9",
   "description": "MinUI 小程序组件 - 异常流提示",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-abnor"
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-abnor"
   },
   "author": "Min Team",
   "publishConfig": {

@@ -1,12 +1,12 @@
 {
-  "name": "@qianzhaoy/wxc-panel",
+  "name": "@bbjxl/wxc-panel",
   "version": "1.0.4",
   "description": "panel - 小程序组件",
   "main": "dist/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-panel"
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-panel"
   },
   "author": "",
   "license": "MIT",

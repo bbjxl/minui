@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @qianzhaoy/wxc-label
+$ min install @bbjxl/wxc-label
 ```
 
 ## API
@@ -23,7 +23,7 @@ $ min install @qianzhaoy/wxc-label
 ||地址|
 |--|---|
 ||label 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#label](https://meili.github.io/min/docs/minui/index.html#label)<br>|
-||label 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-label](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-label)<br>|
+||label 组件源码 <br> [https://github.com/bbjxl/minui/tree/master/packages/wxc-label](https://github.com/bbjxl/minui/tree/master/packages/wxc-label)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

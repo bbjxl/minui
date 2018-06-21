@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @qianzhaoy/wxc-flex
+$ min install @bbjxl/wxc-flex
 ```
 
 ## API
@@ -23,7 +23,7 @@ $ min install @qianzhaoy/wxc-flex
 ||地址|
 |--|---|
 ||flex 组件文档 <br> [https://meili.github.io/min/docs/minui/index.html#flex](https://meili.github.io/min/docs/minui/index.html#flex)<br>|
-||flex 组件源码 <br> [https://github.com/qianzhaoy/minui/tree/master/packages/wxc-flex](https://github.com/qianzhaoy/minui/tree/master/packages/wxc-flex)<br>|
+||flex 组件源码 <br> [https://github.com/bbjxl/minui/tree/master/packages/wxc-flex](https://github.com/bbjxl/minui/tree/master/packages/wxc-flex)<br>|
 ||MinUI 组件库 <br> [https://github.com/meili/minui](https://github.com/meili/minui) <br>|
 
 ## Preview

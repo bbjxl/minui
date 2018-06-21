@@ -1,14 +1,14 @@
 {
-  "name": "@qianzhaoy/wxc-card",
+  "name": "@bbjxl/wxc-card",
   "version": "1.0.4",
   "description": "商品卡片 - 小程序组件",
   "main": "dist/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-card"
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-card"
   },
-  "author": "qianzhaoy",
+  "author": "bbjxl",
   "publishConfig": {
     "access": "public"
   },

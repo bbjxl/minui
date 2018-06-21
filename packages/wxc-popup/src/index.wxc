@@ -9,7 +9,7 @@
 export default {
   config: {
     usingComponents: {
-      'wxc-mask': '@qianzhaoy/wxc-mask'
+      'wxc-mask': '@bbjxl/wxc-mask'
     }
   },
   behaviors: [],

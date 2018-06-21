@@ -1,12 +1,12 @@
 {
-  "name": "@qianzhaoy/wxc-input",
+  "name": "@bbjxl/wxc-input",
   "version": "1.0.5",
   "description": "输入框组件 - 小程序组件",
   "main": "dist/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-input"
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-input"
   },
   "author": "",
   "license": "MIT",

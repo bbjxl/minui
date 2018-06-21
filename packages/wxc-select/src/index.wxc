@@ -12,7 +12,7 @@
 export default {
   config: {
     usingComponents: {
-      'wxc-icon': '@qianzhaoy/wxc-icon'
+      'wxc-icon': '@bbjxl/wxc-icon'
     }
   },
   behaviors: [ ],

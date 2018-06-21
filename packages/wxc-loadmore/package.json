@@ -1,11 +1,11 @@
 {
-  "name": "@qianzhaoy/wxc-loadmore",
+  "name": "@bbjxl/wxc-loadmore",
   "version": "1.0.7",
   "description": "MinUI 小程序组件 - 页底提示",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-end"
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-end"
   },
   "author": "Min Team",
   "license": "MIT",

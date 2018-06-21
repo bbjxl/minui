@@ -5,7 +5,7 @@
 ## Install
 
 ``` bash
-$ min install @qianzhaoy/wxc-list
+$ min install @bbjxl/wxc-list
 ```
 
 

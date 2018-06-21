@@ -1,12 +1,12 @@
 {
-  "name": "@qianzhaoy/wxc-avatar",
+  "name": "@bbjxl/wxc-avatar",
   "version": "1.0.10",
   "description": "MinUI 小程序组件 - 头像",
   "main": "dist/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-avatar"
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-avatar"
   },
   "publishConfig": {
     "access": "public"
@@ -14,8 +14,8 @@
   "author": "Min Team",
   "license": "MIT",
   "dependencies": {
-    "@qianzhaoy/wxc-badge": "1.0.7",
-    "@qianzhaoy/wxc-cc": "1.0.8"
+    "@bbjxl/wxc-badge": "1.0.7",
+    "@bbjxl/wxc-cc": "1.0.8"
   },
   "minConfig": {
     "component": true

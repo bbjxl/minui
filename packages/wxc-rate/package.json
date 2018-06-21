@@ -1,12 +1,12 @@
 {
-  "name": "@qianzhaoy/wxc-rate",
+  "name": "@bbjxl/wxc-rate",
   "version": "1.0.4",
   "description": "评价 - 小程序组件",
   "main": "dist/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/qianzhaoy/minui/tree/master/packages/wxc-rate"
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-rate"
   },
   "author": "",
   "license": "MIT",
