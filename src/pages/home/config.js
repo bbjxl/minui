@@ -147,6 +147,12 @@ module.exports = {
           "code": ""
         },
         {
+          "id": "sku",
+          "name": "SKU",
+          "icon": "",
+          "code": ""
+        },
+        {
           "id": "search",
           "name": "搜索栏",
           "icon": "",

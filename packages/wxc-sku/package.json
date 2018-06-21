@@ -1,0 +1,16 @@
+{
+  "name": "@minui/wxc-sku",
+  "version": "1.0.0",
+  "description": "sku组件 - 小程序组件",
+  "main": "dist/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbjxl/minui/tree/master/packages/wxc-sku"
+  },
+  "author": "",
+  "license": "MIT",
+  "minConfig": {
+    "component": true
+  }
+}
