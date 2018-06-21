@@ -1,6 +1,6 @@
 {
   "name": "@bbjxl/wxc-tab",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "MinUI 小程序组件 - 选项卡",
   "main": "dist/index.js",
   "repository": {

@@ -1,6 +1,6 @@
 {
   "name": "@bbjxl/wxc-counter",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "MinUI 小程序组件 - 数字框",
   "main": "dist/index.js",
   "repository": {

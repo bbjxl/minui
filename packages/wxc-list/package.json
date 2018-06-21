@@ -1,6 +1,6 @@
 {
   "name": "@bbjxl/wxc-list",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "列表组件 - 小程序组件",
   "main": "dist/index.js",
   "scripts": {},

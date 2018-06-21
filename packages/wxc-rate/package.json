@@ -1,6 +1,6 @@
 {
   "name": "@bbjxl/wxc-rate",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "评价 - 小程序组件",
   "main": "dist/index.js",
   "scripts": {},

@@ -1,6 +1,6 @@
 {
   "name": "@bbjxl/wxc-notice",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "通告栏 - 小程序组件",
   "main": "dist/index.js",
   "scripts": {},

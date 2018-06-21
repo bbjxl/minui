@@ -1,6 +1,6 @@
 {
   "name": "@bbjxl/wxc-price",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "MinUI 小程序组件 - 价格",
   "main": "dist/index.js",
   "repository": {
