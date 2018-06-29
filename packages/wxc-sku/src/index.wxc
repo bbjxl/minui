@@ -341,7 +341,7 @@ export default {
         return '请选择完整规格';
       }
 
-      if (this.data.quota <= this.data.quotaUsed) {
+      if (this.data.quota !== 0 && this.data.quota <= this.data.quotaUsed) {
         return '您已超过限购数';
       }
  
