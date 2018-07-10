@@ -4,7 +4,7 @@
         <view class="sku__header hairline-bottom">
           <view class="sku__header-img">
             <image src="{{ imgUrl }}" mode="aspectFit"></image>
-          </view> 
+          </view>
           <view class="sku__header-info">
             <view class="sku__header-name">{{ goods.title }}</view>
             <view class="sku__header-price">￥{{ price }}</view>
@@ -14,15 +14,15 @@
 
         <view class="sku__body">
           <view class="sku__select">
-            <view 
+            <view
               class="sku-row"
-              wx:for="{{ sku.tree }}" 
+              wx:for="{{ sku.tree }}"
               wx:key="{{ index }}">
               <view class="sku-row__title">{{ item.k }}</view>
-              <view 
-                class="sku-row__item {{ selectedSku[item.k_s] === sku.id ? 'sku-row__item--active' : '' }} {{ !itemsDisabled[sku.id] && 'sku-row__item--disabled' }}" 
-                wx:for="{{ item.v }}" 
-                wx:key="{{ sku.id }}"  
+              <view
+                class="sku-row__item {{ selectedSku[item.k_s] === sku.id ? 'sku-row__item--active' : '' }} {{ !itemsDisabled[sku.id] && 'sku-row__item--disabled' }}"
+                wx:for="{{ item.v }}"
+                wx:key="{{ sku.id }}"
                 wx:for-item="sku"
                 data-skuid="{{ sku.id }}"
                 data-ischooseable="{{ itemsDisabled[sku.id] }}"
@@ -34,29 +34,29 @@
           <view class="sku__stepper-stock">
             <view class="sku-stepper-container">
               <view>购买数量：</view>
-              <wxc-counter 
-                number="{{ selectedNum }}" 
+              <wxc-counter
+                number="{{ selectedNum }}"
                 bind:changenumber="onNumChange"
                 min="1"
                 max="{{ limitQuota }}"
               ></wxc-counter>
             </view>
             <text class="sku__stock">剩余{{ stock }}件</text>
-            <text class="sku__quota" wx:if="{{ quota > 0 }}">每人限购{{ limitQuota }}件</text>
+            <text class="sku__quota" wx:if="{{ quota > 0 }}">每人限购{{ quota }}件</text>
           </view>
         </view>
 
         <view class="sku__actions">
-          <button 
-            class="sku__add-cart" 
-            wx:if="{{ showAddCartBtn }}" 
+          <button
+            class="sku__add-cart"
+            wx:if="{{ showAddCartBtn }}"
             hover-class="sku__actions--active"
             bind:tap="addCart"
           >加入购物车</button>
 
-          <button 
-            class="sku__buy" 
-            type="warn" 
+          <button
+            class="sku__buy"
+            type="warn"
             hover-class="sku__actions--active"
             bind:tap="buy"
           >{{ buyText || '立即购买'}}</button>
@@ -187,7 +187,7 @@ export default {
       data.price = this.getPrice(data.selectedSkuComb);
       data.stock = this.getStock(data.selectedSkuComb);
       data.limitQuota = this.getSelectLimit(data.stock);
-      
+
       // 如果当前的购买数量大于剩余库存
       if (this.data.selectedNum > data.limitQuota) {
         data.selectedNum = data.limitQuota;
@@ -313,7 +313,7 @@ export default {
 
       stock = typeof stock === 'undefined' ? 0 : stock;
 
-      // 无限购时直接取库存，有限购时取限购数和库存数中小的那个
+      // 无限购时直接取库存，有限购时取可用限购数和库存数中小的那个
       if (this.data.quota > 0 && quotaLimit <= stock) {
         // 修正负的limit
         limit = quotaLimit < 0 ? 0 : quotaLimit;
@@ -344,7 +344,7 @@ export default {
       if (this.data.quota !== 0 && this.data.quota <= this.data.quotaUsed) {
         return '您已超过限购数';
       }
- 
+
       return '';
     }
   }
