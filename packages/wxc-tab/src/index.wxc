@@ -1,5 +1,5 @@
 <template>
-  <view class="tab {{fullScreen? 'tab__full' : ''}}">
+  <view class="tab {{fullScreen? 'tab__full' : ''}}"   >
 
     <!-- defalut tab-label -->
     <block wx:if="{{type === 'simple'}}">
@@ -18,7 +18,7 @@
             data-key="{{tab.key}}"
             data-idx="{{index}}"
             bindtap="onSwitch"
-            style="width: {{width}}rpx; color:{{index === activeKey ? activeTextColor : textColor}}"
+            style="width: {{width}}rpx; color:{{index === activeKey ? activeTextColor : textColor}};height: 50rpx;line-height: 50rpx;"
           >
             <label class="tab__navbar-title">{{tab.label}}</label>
           </view>
@@ -39,7 +39,7 @@
         scroll-left="{{(move-width*2.1) / 2}}"
         scroll-with-animation="{{animate}}"
       >
-        <view class="tab__navbar-wrap">
+        <view class="tab__navbar-wrap"  >
           <slot name="tablabel"></slot>
           <view class="tab__line {{!animate ? '' : 'tab__line--animate'}}"
             style="left:{{move}}rpx; width: {{width}}rpx; background-color: {{activeLineColor}};">
@@ -106,6 +106,10 @@ export default {
     activeLineColor: {
       type: String,
       value: '#ff5777',
+    },
+    customWith: {
+      type: Number,
+      value: 700,
     }
   },
   data: {
@@ -129,7 +133,7 @@ export default {
     this.listenSwitch();
     // const width = this.tabs.length < 5 ? (100 / this.tabs.length) : 25;
     let len = this.tabs.length;
-    const width = parseInt(750 / (len > 5? 5 : len))
+    const width = parseInt(this.data.customWith / (len > 5? 5 : len))
     this.type === 'complex' && Event.emit(`label-width-${this.componentId}`, width);
     this.setData({
       tabs: this.tabs,
